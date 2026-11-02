@@ -1,0 +1,16 @@
+feature,importance,model
+numeric__hour_sin,0.31105691676879044,random_forest
+numeric__hour_cos,0.22896645752138528,random_forest
+numeric__atemp,0.09167989208675653,random_forest
+numeric__temp,0.07862245876301303,random_forest
+categorical__workingday_1,0.03771097110879165,random_forest
+numeric__hum,0.037481811505756336,random_forest
+categorical__workingday_0,0.03366278803635421,random_forest
+categorical__season_1,0.032583116985708455,random_forest
+categorical__hr_8,0.021022192148886714,random_forest
+categorical__weathersit_3,0.018196862974473527,random_forest
+categorical__season_4,0.01392179990542783,random_forest
+numeric__windspeed,0.011961212575372008,random_forest
+numeric__month_cos,0.008454263856087389,random_forest
+numeric__month_sin,0.006341753700769682,random_forest
+categorical__weekend_1,0.00617623245915106,random_forest

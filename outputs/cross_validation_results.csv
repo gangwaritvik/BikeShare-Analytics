@@ -1,0 +1,3 @@
+model,best_cv_rmse,best_params
+random_forest,65.16203878518425,"{""model__max_depth"": null, ""model__min_samples_leaf"": 1, ""model__n_estimators"": 300}"
+xgboost,62.66194248199463,"{""model__colsample_bytree"": 0.9, ""model__learning_rate"": 0.05, ""model__max_depth"": 5, ""model__n_estimators"": 600, ""model__subsample"": 0.8}"

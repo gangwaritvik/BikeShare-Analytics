@@ -1,0 +1,16 @@
+feature,importance,model
+numeric__hour_cos,0.16799642,xgboost
+numeric__hour_sin,0.112920664,xgboost
+categorical__workingday_1,0.0629111,xgboost
+categorical__workingday_0,0.060382135,xgboost
+categorical__hr_19,0.05871982,xgboost
+categorical__hr_8,0.037585415,xgboost
+numeric__month_cos,0.036603365,xgboost
+categorical__season_4,0.036174536,xgboost
+numeric__temp,0.03168275,xgboost
+categorical__season_1,0.02840542,xgboost
+categorical__hr_4,0.0265273,xgboost
+categorical__hr_20,0.024782699,xgboost
+categorical__weekend_0,0.02413184,xgboost
+categorical__weathersit_3,0.023477359,xgboost
+categorical__hr_10,0.018767877,xgboost

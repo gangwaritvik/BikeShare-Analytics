@@ -1,0 +1,2 @@
+# Keep large binary model artifacts out of normal Git objects.
+models/*.joblib filter=lfs diff=lfs merge=lfs -text
